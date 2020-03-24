@@ -1,0 +1,10 @@
+body{
+    height: 100vh;
+    width: 100vw;
+    background-color: #222;
+}
+h1{
+    color: white;
+    font-family: sans-serif;
+    text-transform: uppercase;
+}
